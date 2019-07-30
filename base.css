@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	position: relative;
+}
+.test { outline: 10px solid red; }
+.container {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+a:link {
+    text-decoration: none; 
+    color: black;
+}
+a:visited {
+    text-decoration: none; 
+    color: black;
+}
+a:active {
+    text-decoration: none; 
+    color: black;
+}
+a:hover {
+    text-decoration: underline; 
+    color: red;
+}
+</style>
