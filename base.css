@@ -25,10 +25,4 @@ a:hover {
     text-decoration: underline; 
     color: red;
 }
-html, body {
-  margin: 0;
-}
-canvas {
-  display: block;
-}
 </style>
