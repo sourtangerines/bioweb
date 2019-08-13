@@ -23,6 +23,10 @@ a:active {
 }
 a:hover {
     text-decoration: underline; 
-    color: red;
+    color: white;
 }
-</style>
+canvas {
+    position: fixed;
+    max-width: inherit;
+    z-index: 1;
+}
