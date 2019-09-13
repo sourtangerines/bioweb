@@ -2,8 +2,8 @@
     transition: all;
 } 
 .content-text{
-    margin-left: 2vw;
-    margin-right: 2vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
     position: absolute;
     z-index: 100;
 }
@@ -14,7 +14,7 @@ hr.line {
 .name {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 10vw;
+    font-size: 7vw;
     word-spacing: -3px;
     position: relative;
     margin-top: 2.5vh;
@@ -25,65 +25,27 @@ hr.line {
     font-family: 'Hammersmith One', sans-serif;
     font-size: 7vw;
     word-spacing: -3px;
-    line-height: 115%;
+    line-height: 110%;
     position: relative;
     color: black
 }
 .contact {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 7vw;
-    word-spacing: -3px;
-    line-height: 115%;
-    position: relative;
-    margin-top: 1.5vh;
-    margin-left: 14.3%;
-    margin-bottom: 2vh;
-    color: black
-}
-.works {
-    display: inline-block;
-    font-family: 'Hammersmith One', sans-serif;
-    font-size: 7vw;
-    word-spacing: -3px;
-    line-height: 90%;
-    position: relative;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    color: black
-}
-.writing {
-    display: inline-block;
-    font-family: 'Hammersmith One', sans-serif;
-    font-size: 7vw;
-    word-spacing: -3px;
-    line-height: 95%;
-    position: relative;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    color: black
-}
-.exhibitions {
-    display: inline-block;
-    font-family: 'Hammersmith One', sans-serif;
-    font-size: 7vw;
-    word-spacing: -3px;
-    position: relative;
-    margin-top: 1vh;
-    margin-left: 0%;
-    margin-bottom: 4vh;
-    color: black
-}
-.list {
-    display: inline-block;
-    font-family: 'Hammersmith One', sans-serif;
     font-size: 5vw;
     word-spacing: -3px;
-    line-height: 120%;
+    line-height: 110%;
     position: relative;
-    margin-top: 1vh;
-    margin-left: 15%;
-    margin-right: 2%;
-    margin-bottom: .5vh;
+    margin-top: 3vh;
+    color: black
+}
+.sns {
+    display: inline-block;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 4vw;
+    word-spacing: -1px;
+    line-height: 110%;
+    position: relative;
+    margin-top: 2.5vh;
     color: black
 }
