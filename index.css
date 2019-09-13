@@ -36,16 +36,16 @@ hr.line {
     word-spacing: -3px;
     line-height: 110%;
     position: relative;
-    margin-top: 3vh;
+    margin-top: 2.5vh;
     color: black
 }
 .sns {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 4.5vw;
+    font-size: 4vw;
     word-spacing: -1px;
     line-height: 110%;
     position: relative;
-    margin-top: 2.5vh;
+    margin-top: 2vh;
     color: black
 }
