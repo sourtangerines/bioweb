@@ -9,6 +9,7 @@
 }
 hr.line {
     border-top-width: .9vw;
+    margin-top: 2vh;
     border-color: black
 }
 .name {
@@ -27,7 +28,7 @@ hr.line {
     word-spacing: -3px;
     line-height: 110%;
     position: relative;
-    margin-top: 2vh;
+    margin-top: 4vh;
     color: black
 }
 .sns {
@@ -37,6 +38,6 @@ hr.line {
     word-spacing: -1px;
     line-height: 110%;
     position: relative;
-    margin-top: 2vh;
+    margin-top: 2.5vh;
     color: black
 }
