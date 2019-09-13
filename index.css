@@ -10,7 +10,6 @@
 hr.line {
     border-top-width: .9vw;
     margin-top: 3vh;
-    margin-bottom: 3vh;
     border-color: black
 }
 .name {
@@ -40,5 +39,16 @@ hr.line {
     line-height: 115%;
     position: relative;
     margin-top: 2vh;
+    color: black
+}
+.copyright {
+    display: inline-block;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size:3.5vw;
+    word-spacing: -1px;
+    line-height: 115%;
+    position: relative;
+    margin-top: 1vh;
+    margin-bottom: 3vh;
     color: black
 }
