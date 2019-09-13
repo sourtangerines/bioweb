@@ -10,6 +10,7 @@
 hr.line {
     border-top-width: .9vw;
     margin-top: 3vh;
+    margin-bottom: 3vh;
     border-color: black
 }
 .name {
