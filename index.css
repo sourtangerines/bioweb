@@ -14,7 +14,7 @@ hr.line {
 .name {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 7vw;
+    font-size: 8vw;
     word-spacing: -3px;
     position: relative;
     margin-top: 2.5vh;
@@ -23,7 +23,7 @@ hr.line {
 .contact {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 5vw;
+    font-size: 4vw;
     word-spacing: -3px;
     line-height: 110%;
     position: relative;
