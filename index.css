@@ -9,7 +9,7 @@
 }
 hr.line {
     border-top-width: .9vw;
-    margin-top: 2vh;
+    margin-top: 1vh;
     border-color: black
 }
 .name {
@@ -24,7 +24,7 @@ hr.line {
 .contact {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 4vw;
+    font-size: 4.5vw;
     word-spacing: -3px;
     line-height: 110%;
     position: relative;
@@ -34,7 +34,7 @@ hr.line {
 .sns {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 4vw;
+    font-size:4.5vw;
     word-spacing: -1px;
     line-height: 110%;
     position: relative;
