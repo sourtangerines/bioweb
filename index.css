@@ -31,6 +31,16 @@ hr.line {
     margin-top: 3vh;
     color: black
 }
+.link {
+    display: inline-block;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size:3.5vw;
+    word-spacing: -1px;
+    line-height: 115%;
+    position: relative;
+    margin-top: 3vh;
+    color: black
+}
 .sns {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
@@ -44,7 +54,7 @@ hr.line {
 .copyright {
     display: inline-block;
     font-family: 'Hammersmith One', sans-serif;
-    font-size:1vw;
+    font-size:2vw;
     word-spacing: -1px;
     line-height: 115%;
     position: relative;
