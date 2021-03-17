@@ -7,7 +7,7 @@
     position: absolute;
     z-index: 100;
 }
-hr.line {
+line {
     border-top-width: .9vw;
     margin-top: 3vh;
     border-color: black
@@ -26,16 +26,6 @@ hr.line {
     font-family: 'Hammersmith One', sans-serif;
     font-size: 5vw;
     word-spacing: -3px;
-    line-height: 115%;
-    position: relative;
-    margin-top: 3vh;
-    color: black
-}
-.link {
-    display: inline-block;
-    font-family: 'Hammersmith One', sans-serif;
-    font-size:5vw;
-    word-spacing: -1px;
     line-height: 115%;
     position: relative;
     margin-top: 3vh;
