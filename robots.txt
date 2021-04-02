@@ -1,6 +1,3 @@
-Sitemap: http://hajaemin.com/sitemap.xml
-User-agent: *
-Allow: /
 User-agent: *
 Allow: /
 Sitemap: http://hajaemin.com/sitemap.xml
